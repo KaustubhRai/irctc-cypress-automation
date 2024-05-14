@@ -1,17 +1,17 @@
 {
   "TRAIN_NO": "12142",
   "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "14/05/2024",
+  "TRAVEL_DATE": "16/05/2024",
   "SOURCE_STATION": "ARA",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "LTT",
-  "TATKAL": false,
+  "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Kaustubh Rai",
-      "AGE": 25,
+      "NAME": "Anil Ray",
+      "AGE": 39,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
